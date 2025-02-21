@@ -1,0 +1,16 @@
+[
+    {
+        "id": "YOUR-123",
+        "time_spent_hours": 1,
+        "work_type": "22-8",
+        "comment": "Completed feature implementation",
+        "day_of_week": "Monday"
+    },
+    {
+        "id": "YOUR-456",
+        "time_spent_hours": 0.5,
+        "work_type": "22-24",
+        "comment": "Performed initial testing",
+        "day_of_week": "Tuesday"
+    }
+]
