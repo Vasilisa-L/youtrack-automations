@@ -1,22 +1,23 @@
 # YouTrack Automation Scripts
 
-Репозиторий для скриптов автоматизации YouTrack. Первый скрипт `youtrack-timesheet` уже доступен. В планах — добавление других полезных инструментов для работы с YouTrack.
+Repository for YouTrack automation scripts.
 
-## Скрипты
+## Scripts
 
-- **youtrack-timesheet**: Скрипт для автоматизации учета рабочего времени.
+- **youtrack-timesheet**: Script for automating time tracking.
+- **youtrack-time-in-status**: A Jupyter Notebook that helps understand how long each YouTrack issue stays in each status.
 
-## Планы
+## Plans
 
-- Добавление новых скриптов для упрощения работы с YouTrack.
-- Поддержка и улучшение существующих решений.
+- Adding new scripts to simplify work with YouTrack.
+- Maintaining and improving existing solutions.
 
-## Как использовать
+## How to Use
 
-1. Клонируйте репозиторий.
-2. Установите зависимости.
-3. Следуйте инструкциям в папке каждого скрипта.
+1. Clone the repository.
+2. Install dependencies.
+3. Follow the instructions in each script's folder.
 
-## Вклад
+## Contribution
 
-Приветствуются pull requests и предложения по улучшению!
+Pull requests and suggestions for improvement are welcome!
